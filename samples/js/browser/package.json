@@ -10,7 +10,7 @@
     "dotenv": "^8.2.0",
     "microsoft-cognitiveservices-speech-sdk": "^1.18",
     "universal-cookie": "^4.0.4",
-    "web-vitals": "^0.2.4"
+    "web-vitals": "^3.1.0"
   },
   "scripts": {
     "server": "node-env-run server --exec nodemon | pino-colada",
